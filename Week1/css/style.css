@@ -1,0 +1,153 @@
+header{
+    background-image: url('../images/understanding-abstract-art.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    color: white;
+    padding-top: 30px;
+    padding-bottom: 200px;
+}
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+
+header nav li{
+    display:inline-block;
+    margin: 20px;
+    font-size: large;
+    font-family: Castellar;
+    color:white;
+    text-decoration:none;
+}
+
+header nav {
+    font-size: 30px;
+    line-height: 25px;
+    position: absolute;
+    top: 5px;
+    right: 30px;
+
+}
+
+nav li a{
+    color:#fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+header h1 {
+    font-family: MV Boli;
+    line-height: 30px;
+    bottom: 10px;
+    left: 30px;
+    text-transform:Uppercase;
+    font-size: 50px;
+}
+
+header h2{
+    font-family: Eras Demi ITC;
+}
+
+#Home{
+    padding-top: 190px;
+    font-size: 25px;
+    text-align: center;
+    padding-right: 700px;
+    line-height: 50px;
+}
+
+main{
+    padding-top: 30px;
+    padding-bottom: 200px;
+    
+}
+
+main img{
+    float:right;
+    padding-top: 50px;
+    padding-left: 35px;
+    padding-bottom: 50px;
+    padding-right: 100px;
+}
+
+main h1{
+    font-size: 50px;
+    padding-left: 150px;
+    font-family: Eras Demi ITC;
+}
+
+main p{
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 30px;
+    font-family:Book Antiqua;
+    padding-right: 50px;
+}
+
+footer{
+    background-image: url("../images/Why-abstract-art-is-beautiful-Writings-On-The-Wall-911.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+    clear: left;
+}
+
+
+#information h1{
+    font-family: Eras Demi ITC;
+}
+
+#information{
+    float:left;
+    padding-left: 70px;
+    font-family:Book Antiqua;
+}
+
+footer p{
+    padding-top: 150px;
+    text-align: center;
+}
+
+footer ul li a{
+    text-decoration: none;
+}
+
+footer ul{
+    padding-left: 20px;
+    text-decoration:none;
+    color:white;
+}
+
+#article img{
+    float:left;
+    padding-left: 200px;
+}
+
+#article{
+    padding-top: 150px;
+}
+
+#article h2{
+    float:left;
+    font-family: Eras Demi ITC;
+    padding-left: 100px;
+    font-size: 30px;
+}
+
+#article p{
+    padding-top: 30px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+#First {
+    font-size: 20px;
+    padding-left: 100px;
+    padding-top: 30px;
+    font-family:Book Antiqua;
+    padding-right: 50px;
+
+}

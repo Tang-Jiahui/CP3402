@@ -1,0 +1,116 @@
+header{
+    background-image: url('../images/understanding-abstract-art.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+    color: white;
+    padding-top: 30px;
+
+}
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+header nav li{
+    display:inline-block;
+    margin: 20px;
+    font-size: large;
+    font-family: Castellar;
+    color:white;
+    text-decoration:none;
+}
+
+header nav {
+    font-size: 30px;
+    line-height: 25px;
+    position: absolute;
+    top: 5px;
+    right: 30px;
+
+}
+
+nav li a{
+    color:#fff;
+    text-align: center;
+    text-decoration: none;
+}
+
+header h1 {
+    font-family: MV Boli;
+    line-height: 30px;
+    bottom: 10px;
+    left: 30px;
+    text-transform:Uppercase;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+
+footer{
+    background-image: url("../images/Why-abstract-art-is-beautiful-Writings-On-The-Wall-911.jpg");
+    background-repeat:no-repeat;
+    background-size:cover;
+    color:white;
+    clear: left;
+}
+
+
+#information h1{
+    font-family: Eras Demi ITC;
+}
+
+#information{
+    float:left;
+    padding-left: 70px;
+    font-family:Book Antiqua;
+}
+
+footer p{
+    padding-top: 150px;
+    text-align: center;
+}
+
+footer ul li a{
+    text-decoration: none;
+}
+
+footer ul{
+    padding-left: 20px;
+    text-decoration:none;
+    color:white;
+}
+
+#Announcements{
+    background-color: red;
+    font-size: 20px;
+}
+
+#Announcements h1{
+    font-size: 20px;
+}
+
+#Service{
+    width: 29%;
+    float: left;
+    margin: 0 2%;
+    padding-top: 50px;
+}
+
+#Service p{
+    font-size: 50px;
+}
+
+main h1{
+    font-family: Eras Demi ITC;
+}
+
+main h2{
+    font-size: 30px;
+    font-family: Eras Demi ITC;
+}
+
+main p{
+    font-family: Bahnschrift Condensed;
+    
+}
+
