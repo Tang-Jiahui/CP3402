@@ -14,7 +14,8 @@ For the startup, I chose to make a website that introduces art studios. I used t
 
 ## References:
 
-Week1 website - https://cp3402.com/startup/
+Week 1 website - https://cp3402.com/startup/
+Week 1 journal link - 
 
 
 ## Estimated Hours:
