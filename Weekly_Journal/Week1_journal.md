@@ -15,7 +15,7 @@ For the startup, I chose to make a website that introduces art studios. I used t
 ## References:
 
 Week 1 website - https://cp3402.com/startup/  
-Week 1 journal link - https://github.com/Tang-Jiahui/CP3402/blob/main/Week1_journal.md
+Week 1 journal link - https://github.com/Tang-Jiahui/CP3402/blob/main/Weekly_Journal/Week1_journal.md
 
 
 ## Estimated Hours:
