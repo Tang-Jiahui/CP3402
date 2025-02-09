@@ -22,6 +22,6 @@ About 4 hours to complete the learning and use of Joomla, as well as basic web p
 
 In the process of using the template, I found that there are some components on the template that I cannot control. For example, when publishing an article, the article will display the name of the publisher and other information such as the time. I tried to turn them off in the settings, but they were not turned off, which instead prevented the introduction picture of the article from loading. Moreover, after turning it off once and then turning it on again, the picture could not be displayed, and I could only delete the entire article and reset it. So I need to consider whether to change the template while the assignment is in progress.
 
-##Career/Employability/Learning Insights
+## Career/Employability/Learning Insights
 
 In the process of using Joomla, I think there may be some unreliable factors in the Joomla template, which may cause inconvenience at work. Moreover, from a modern point of view, the cumbersomeness of Joomla may not be suitable for today's fast work requirements.
