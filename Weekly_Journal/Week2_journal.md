@@ -16,7 +16,7 @@ Joomla learning website (Chinese) - https://www.joomlachina.cn/articles/plans/jo
 
 ## Estimated Hours:
 
-About 4 hours to complete the learning and use of Joomla, as well as basic web pages
+About 4 hours to complete the learning and use of Joomla, as well as basic web pages.
 
 ## Content Insights 
 
