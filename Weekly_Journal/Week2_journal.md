@@ -10,9 +10,9 @@ I installed Joomla 4.4.0 on Siteground and completed the simple start for Assign
 
 ## References:
 
-Week 2 website - https://cp3402.com/Joomla/TangJiahui/Assignment1/
-Week 2 Journal Github link - https://github.com/Tang-Jiahui/CP3402/blob/main/Weekly_Journal/Week1_journal.md
-Joomla learning website (Chinese) - https://www.joomlachina.cn/articles/plans/joomla-tech-lesson/2022-2022-09-23-04-00-36/359-jichu-jiaocheng06
+Week 2 website - https://cp3402.com/Joomla/TangJiahui/Assignment1/   
+Week 2 Journal Github link - https://github.com/Tang-Jiahui/CP3402/blob/main/Weekly_Journal/Week1_journal.md   
+Joomla learning website (Chinese) - https://www.joomlachina.cn/articles/plans/joomla-tech-lesson/2022-2022-09-23-04-00-36/359-jichu-jiaocheng06   
 
 ## Estimated Hours:
 
