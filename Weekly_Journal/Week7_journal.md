@@ -27,7 +27,7 @@ Reusability & Structure:
 
 ## References:
 
-PHP Manual: https://www.php.net/manual/en/
+PHP Manual: https://www.php.net/manual/en/  
 W3Schools PHP Syntax: https://www.w3schools.com/php/php_syntax.asp
 
 ## Estimated Hours:
