@@ -31,10 +31,10 @@ Taking notes while learning helped me better understand and retain new programmi
 
 ## References
 
-Spaced Repetition：https://en.wikipedia.org/wiki/Spaced_repetition​ 
-Effective Note-Taking in Class: https://learningcenter.unc.edu/tips-and-tools/effective-note-taking-in-class/ 
-Spacing Effect: https://en.wikipedia.org/wiki/Spacing_effect​ 
-Effective Note-Taking: https://library.usa.edu/effective-note-taking​
+Spaced Repetition：https://en.wikipedia.org/wiki/Spaced_repetition​   
+Effective Note-Taking in Class: https://learningcenter.unc.edu/tips-and-tools/effective-note-taking-in-class/   
+Spacing Effect: https://en.wikipedia.org/wiki/Spacing_effect​   
+Effective Note-Taking: https://library.usa.edu/effective-note-taking​   
 
 ## Estimated Hours
 
