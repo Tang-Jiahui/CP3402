@@ -35,10 +35,10 @@ After modifying the Sass variables, you can immediately see the change in the th
 
 ## References
 
-Sass style rule: https://sass-lang.com/documentation/style-rules/ 
-Runoob Sass tutorial: https://www.runoob.com/sass/sass-tutorial.html 
-Gulp start: https://gulpjs.com/docs/en/getting-started/quick-start/ 
-Gulp for Beginners : https://css-tricks.com/gulp-for-beginners/ 
+Sass style rule: https://sass-lang.com/documentation/style-rules/    
+Runoob Sass tutorial: https://www.runoob.com/sass/sass-tutorial.html      
+Gulp start: https://gulpjs.com/docs/en/getting-started/quick-start/       
+Gulp for Beginners : https://css-tricks.com/gulp-for-beginners/      
 
 ## Estimated Hours
 
